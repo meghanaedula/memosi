@@ -1,0 +1,6 @@
+{
+  "name": "memosi — Contemporary Luxury Clothing",
+  "description": "Premium clothing store featuring minimalist tailoring, cashmere knitwear, and architectural silhouettes in a clean white and warm beige palette.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
